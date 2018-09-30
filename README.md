@@ -21,6 +21,7 @@ Usage
 2. Load the web in the PS4.
 3. Wait until complete (1 min more or less).
 4. Files are dumped in dump folder
+5. TESTED ONLY ON PS4 PRO
 
 License
 =======
